@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# MSVS
+*.sln
+*.vcxproj
+*.filters
+*.db
+*.opendb
