@@ -37,3 +37,9 @@
 *.filters
 *.db
 *.opendb
+*.ipdb
+*.iobj
+*.tlog
+*.lastbuildstate
+*.ipch
+*.ppm
