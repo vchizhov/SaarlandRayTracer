@@ -1,5 +1,6 @@
 #include <fstream>
 #include <iostream>
+//colaborate test
 
 void createCheckerboard(unsigned char* image, int width, int height, int rectsCount)
 {
